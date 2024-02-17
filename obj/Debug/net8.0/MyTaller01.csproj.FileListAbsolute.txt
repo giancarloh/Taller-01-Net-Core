@@ -1,0 +1,64 @@
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/bin/Debug/net8.0/appsettings.json
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/bin/Debug/net8.0/MyTaller01.exe
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/bin/Debug/net8.0/MyTaller01.deps.json
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/bin/Debug/net8.0/MyTaller01.runtimeconfig.json
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/bin/Debug/net8.0/MyTaller01.dll
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/bin/Debug/net8.0/MyTaller01.pdb
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/MyTaller01.csproj.AssemblyReference.cache
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/MyTaller01.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/MyTaller01.AssemblyInfoInputs.cache
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/MyTaller01.AssemblyInfo.cs
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/MyTaller01.csproj.CoreCompileInputs.cache
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/MyTaller01.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/MyTaller01.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/staticwebassets/msbuild.MyTaller01.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/staticwebassets/msbuild.build.MyTaller01.props
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyTaller01.props
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyTaller01.props
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/scopedcss/bundle/MyTaller01.styles.css
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/MyTaller01.csproj.CopyComplete
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/MyTaller01.dll
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/refint/MyTaller01.dll
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/MyTaller01.pdb
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/MyTaller01.genruntimeconfig.cache
+C:/Users/Papito Mi Rey/Desktop/sources/taller01/MyTaller01/obj/Debug/net8.0/ref/MyTaller01.dll
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/bin/Debug/net8.0/appsettings.Development.json
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/bin/Debug/net8.0/appsettings.json
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/bin/Debug/net8.0/MyTaller01
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/bin/Debug/net8.0/MyTaller01.deps.json
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/bin/Debug/net8.0/MyTaller01.runtimeconfig.json
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/bin/Debug/net8.0/MyTaller01.dll
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/bin/Debug/net8.0/MyTaller01.pdb
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/MyTaller01.csproj.AssemblyReference.cache
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/MyTaller01.GeneratedMSBuildEditorConfig.editorconfig
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/MyTaller01.AssemblyInfoInputs.cache
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/MyTaller01.AssemblyInfo.cs
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/MyTaller01.csproj.CoreCompileInputs.cache
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/MyTaller01.MvcApplicationPartsAssemblyInfo.cs
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/MyTaller01.MvcApplicationPartsAssemblyInfo.cache
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/staticwebassets.build.json
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/staticwebassets.development.json
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/staticwebassets/msbuild.MyTaller01.Microsoft.AspNetCore.StaticWebAssets.props
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/staticwebassets/msbuild.build.MyTaller01.props
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyTaller01.props
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyTaller01.props
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/staticwebassets.pack.json
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/scopedcss/bundle/MyTaller01.styles.css
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/MyTaller01.csproj.CopyComplete
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/MyTaller01.dll
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/refint/MyTaller01.dll
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/MyTaller01.pdb
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/MyTaller01.genruntimeconfig.cache
+/home/giancarloh/Desktop/sourcesNetCore/MyTaller01/obj/Debug/net8.0/ref/MyTaller01.dll

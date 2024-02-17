@@ -1,0 +1,29 @@
+@MyTaller01_HostAddress = http://localhost:5074
+@Controller = servicesbll
+
+GET {{MyTaller01_HostAddress}}/{{Controller}}/categories
+Accept: application/json
+
+###
+
+GET {{MyTaller01_HostAddress}}/servicesbll/products/category/3
+Accept: application/json
+
+###
+
+GET {{MyTaller01_HostAddress}}/servicesbll/product-names
+Accept: application/json
+
+###
+
+GET {{MyTaller01_HostAddress}}/servicesbll/product-lot
+Accept: application/json
+
+###
+
+@cantidad = 100
+
+GET {{MyTaller01_HostAddress}}/servicesbll/products/quantity/{{cantidad}}
+Accept: application/json
+
+###
